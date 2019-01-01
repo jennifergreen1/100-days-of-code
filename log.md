@@ -8,6 +8,8 @@
 **Thoughts:** Looking forward to starting my first #100daysofcode tomorrow.
 
 
+
+
 ### Day 0: December 30, 2018
 
 
